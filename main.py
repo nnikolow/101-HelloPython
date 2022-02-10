@@ -1,3 +1,4 @@
+# Pythagorean Triples
 counter = 0
 for c in range(1, 48):
     for b in range(1, c):
